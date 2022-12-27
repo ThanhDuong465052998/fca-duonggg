@@ -1,7 +1,7 @@
 {
   "name": "fca-duong",
   "version": "4.2.0",
-  "description": "Facebook Chat Api Được Remake Bới Horizon Chống Get (Tương Lai ...) Và Pay Acc 🐧 (maybe?)",
+  "description": "Facebook Chat Api",
   "scripts": {
     "test": "mocha",
     "lint": "./node_modules/.bin/eslint **.js",
@@ -31,6 +31,7 @@
     "axios": "^1.2.1",
     "bluebird": "^2.11.0",
     "cheerio": "^1.0.0-rc.10",
+    "fca-duong": "^4.1.0",
     "fs-extra": "^11.1.0",
     "horizon-sp": "",
     "https-proxy-agent": "^4.0.0",
@@ -75,4 +76,3 @@
     }
   }
 }
-
