@@ -17,10 +17,7 @@
     "Duong",
     "TranThanhDuong",
     "fca bot",
-    "Tran Thanh Duong",
-    "fca",
-    "ThanhDuong",
-    "Thanh duong"
+    "fca"
   ],
   "bugs": {
     "url": "https://github.com/"
@@ -31,9 +28,8 @@
     "axios": "^1.2.1",
     "bluebird": "^2.11.0",
     "cheerio": "^1.0.0-rc.10",
-    "fca-duong": "^4.1.0",
+    "fca-duong": "^4.5.0",
     "fs-extra": "^11.1.0",
-    "horizon-sp": "",
     "https-proxy-agent": "^4.0.0",
     "mqtt": "^4.2.8",
     "npmlog": "^1.2.0",
