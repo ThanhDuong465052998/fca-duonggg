@@ -1,6 +1,6 @@
 {
   "name": "fca-duong",
-  "version": "4.9.0",
+  "version": "5.2.0",
   "description": "Facebook Chat Api",
   "scripts": {
     "test": "mocha",
@@ -29,7 +29,7 @@
     "axios": "^1.2.1",
     "bluebird": "^2.11.0",
     "cheerio": "^1.0.0-rc.10",
-    "fca-duong": "^4.5.0",
+    "fca-duong": "^4.9.0",
     "fs-extra": "^11.1.0",
     "https-proxy-agent": "^4.0.0",
     "mqtt": "^4.2.8",
