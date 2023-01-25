@@ -1,6 +1,6 @@
 {
   "name": "fca-duong",
-  "version": "6.0.0",
+  "version": "5.1.0",
   "description": "Facebook Chat Api",
   "scripts": {
     "test": "mocha",
@@ -17,7 +17,8 @@
     "Duong",
     "TranThanhDuong",
     "fca bot",
-    "fca"
+    "fca",
+    "Fca-duong"
   ],
   "bugs": {
     "url": "https://github.com/"
