@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/"
+    "url": "git://github.com/ThanhDuong465052998/fca-duonggg"
   },
   "keywords": [
     "Fca",
@@ -21,7 +21,7 @@
     "Fca-duong"
   ],
   "bugs": {
-    "url": "https://github.com/"
+    "url": "https://github.com/ThanhDuong465052998/fca-duonggg"
   },
   "author": "Avery, David, Maude, Benjamin, Kanzu",
   "license": "MIT",
@@ -29,7 +29,6 @@
     "axios": "^1.2.1",
     "bluebird": "^2.11.0",
     "cheerio": "^1.0.0-rc.10",
-    "fca-duong": "^5.2.0",
     "fs-extra": "^11.1.0",
     "https-proxy-agent": "^4.0.0",
     "mqtt": "^4.2.8",
