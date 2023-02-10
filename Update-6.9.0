@@ -1,6 +1,6 @@
 {
   "name": "fca-duong",
-  "version": "6.9.0",
+  "version": "7.0.0",
   "description": "This Repo Is A Fork From The Main Repo And Will Often Have New Features Integrated Faster Than The Main Repo (And May Also Include Certain Bugs)",
   "scripts": {
     "test": "mocha",
