@@ -1,0 +1,74 @@
+{
+  "name": "fca-duong",
+  "version": "7.2.0",
+  "description": "This Repo Is A Fork From The Main Repo And Will Often Have New Features Integrated Faster Than The Main Repo (And May Also Include Certain Bugs)",
+  "scripts": {
+    "test": "mocha",
+    "lint": "./node_modules/.bin/eslint **.js",
+    "prettier": "prettier utils.js src/* --write"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ThanhDuong465052998/fca-duonggg"
+  },
+  "keywords": [
+    "Fca",
+    "fca-duong",
+    "fca bot",
+    "fca",
+    "Fca-duong"
+  ],
+  "bugs": {
+    "url": "https://github.com/ThanhDuong465052998/fca-duonggg"
+  },
+  "author": "Avery, David, Maude, Benjamin, Kanzu",
+  "license": "MIT",
+  "dependencies": {
+    "aes-js": "^3.1.2",
+    "axios": "^1.2.1",
+    "bluebird": "^2.11.0",
+    "cheerio": "^1.0.0-rc.10",
+    "dotenv": "^16.0.3",
+    "fs-extra": "^11.1.0",
+    "https-proxy-agent": "^4.0.0",
+    "mqtt": "^4.2.8",
+    "npmlog": "^1.2.0",
+    "request": "^2.53.0",
+    "semver": "",
+    "websocket-stream": "^5.5.0"
+  },
+  "engines": {
+    "node": ">=10.x"
+  },
+  "devDependencies": {
+    "eslint": "^7.5.0",
+    "mocha": "^7.0.1",
+    "prettier": "^1.11.1"
+  },
+  "eslintConfig": {
+    "env": {
+      "es6": true,
+      "node": true
+    },
+    "extends": "eslint:recommended",
+    "parserOptions": {
+      "sourceType": "module"
+    },
+    "rules": {
+      "linebreak-style": [
+        "error",
+        "unix"
+      ],
+      "semi": [
+        "error",
+        "always"
+      ],
+      "no-unused-vars": [
+        1,
+        {
+          "argsIgnorePattern": "^_"
+        }
+      ]
+    }
+  }
+}
