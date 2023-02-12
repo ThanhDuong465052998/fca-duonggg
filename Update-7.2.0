@@ -1,7 +1,7 @@
 {
   "name": "fca-duong",
   "version": "7.2.0",
-  "description": "This Repo Is A Fork From The Main Repo And Will Often Have New Features Integrated Faster Than The Main Repo (And May Also Include Certain Bugs)",
+  "description": "Repo này là một nhánh rẽ từ Repo chính và thường sẽ có các tính năng mới được tích hợp nhanh hơn Repo chính (và cũng có thể bao gồm một số lỗi nhất định)",
   "scripts": {
     "test": "mocha",
     "lint": "./node_modules/.bin/eslint **.js",
